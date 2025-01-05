@@ -163,11 +163,11 @@
 	},
 	"sources": {
 		"ether-wallet-contract.sol": {
-			"keccak256": "0xe96ce798b9e5fefc9268ce7deb63935245ba3b8a14a8c01ff83b05f08fe28e0e",
+			"keccak256": "0x5bca94d6df4d3cb3ae62bd162cb9d63e2259a62cceab8ef44bd28616a1fbb9b1",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://cbc0c470eb7f3ddc63e66cd4d30ae4766592ff7738e28198a52f878e8a6a9252",
-				"dweb:/ipfs/QmTzyXcgL145nh2qXFz3ALY8qgRWfnTgv5xYmHPoZXZwZm"
+				"bzz-raw://2de8937fc8095b99060fe6370dbcbd4d5027062cbc8d159c16b36fb6430a8137",
+				"dweb:/ipfs/QmXGnNPKmmuBkQDag38Qkm48G2eUTH9fCzewmTEME7TFN4"
 			]
 		}
 	},
